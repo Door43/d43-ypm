@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ypm:home|Door43 (ypm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ypm|d43-ypm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ypm/archive/master.zip|d43-ypm.zip]]
+
+**Recent Changes**
+{{changes>ns = ypm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ypm|Ethnologue data]]
+
